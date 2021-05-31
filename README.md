@@ -1,3 +1,10 @@
+# Gear Grinder App
+
+Requires webgg for data.
+- In dev mode expects webgg running at localhost:3010
+- In production uses the API at hgbtools.infohell.net
+
+
 # Quasar App (quasar-test-1)
 
 A Quasar Framework app
